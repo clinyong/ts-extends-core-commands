@@ -1,0 +1,12 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "main": "./dist/core",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
