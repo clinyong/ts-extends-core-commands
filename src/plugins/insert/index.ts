@@ -1,4 +1,4 @@
-import { Core } from "../../core/core";
+import { Core } from "../../core";
 
 export class InsertPlugin {
   constructor(core: Core) {

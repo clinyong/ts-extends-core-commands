@@ -1,7 +1,7 @@
 {
   "name": "core",
   "version": "1.0.0",
-  "main": "./dist/core",
+  "main": "./dist/index.js",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.2.3"
